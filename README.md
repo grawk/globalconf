@@ -1,0 +1,3 @@
+# globalconf
+
+global conf freestyle
